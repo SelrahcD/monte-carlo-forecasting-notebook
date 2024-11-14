@@ -1,9 +1,8 @@
 name: monte-carlo
 channels:
-    - defaults
+    - conda-forge
 dependencies:
     - python=3.11
     - matplotlib
     - pandas
-    - ipywidgets
-    - jupyter_contrib_nbextensions
+    - ipywidgets=8.0.2
