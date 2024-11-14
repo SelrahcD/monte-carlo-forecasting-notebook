@@ -1,0 +1,6 @@
+name: monte-carlo
+dependencies:
+    - python=3.11
+    - matplotlib
+    - pandas
+    - ipywidgets
